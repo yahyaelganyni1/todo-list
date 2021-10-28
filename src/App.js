@@ -38,7 +38,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>yahya todo list</h1>
+        <h1>yahya todo list </h1>
       </header>
       <TodoForm addTodo={addTodo} />
       <TodoList
